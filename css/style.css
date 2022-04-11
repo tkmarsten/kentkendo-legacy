@@ -84,9 +84,7 @@ header.masthead h3 {
 }
 
 
-#dojo,
-#sensei,
-#membership {
+#dojo, #sensei, #membership {
   position: absolute;
   top: -100px;
 }
