@@ -92,3 +92,9 @@ header.masthead h3 {
   width: 150px;
   height: 150px;
 }
+
+/* FAQ */
+
+.faq, .terms {
+  margin-top: 3rem;
+}
