@@ -45,16 +45,6 @@ header.masthead {
   padding: 8rem 0;
 }
 
-/* header.masthead .overlay {
-  position: absolute;
-  background-color: #212529;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-  opacity: 0.5;
-} */
-
 header.masthead h3 {
   font-size: 1rem;
   font-weight: 600;
@@ -76,7 +66,8 @@ header.masthead h3 {
 }
 
 .announcements {
-  background-image: linear-gradient(90deg, #f32727, #8f2b2b);
+  border-bottom: 10px solid;
+  border-color: #f22626;
 }
 
 .carousel-item {
@@ -94,7 +85,7 @@ header.masthead h3 {
 .banner {
   margin-top: 3rem;
   height: 250px;
-  background-image: linear-gradient(90deg, #f32727, #8f2b2b);
+  background-image: linear-gradient(90deg, #f22626, #8f2b2b);
 }
 
 .affimg {
