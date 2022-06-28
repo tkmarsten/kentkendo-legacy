@@ -98,3 +98,7 @@ header.masthead h3 {
 .faq, .terms {
   margin-top: 3rem;
 }
+
+.terms {
+  min-height: 100vh;
+}
